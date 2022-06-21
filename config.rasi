@@ -10,7 +10,7 @@ configuration {
 * {
 	bg:				#191919;
 	fg:				#ffffff;
-	green: 			#0AAF4B;
+	green: 			#00894B;
 	gray: 			#343434;
 	button:				#9e9e95;
 
